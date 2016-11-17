@@ -1,0 +1,16 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "authors": [
+        {
+            "name": "Michel Lima",
+            "email": "michelpl@yahoo.com.br"
+        }
+    ],
+    "autoload" :{
+        "psr-0" : {
+            "Example" : "lib"
+        }
+    }
+}
